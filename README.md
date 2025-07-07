@@ -8,19 +8,17 @@ I am particularly passionate about creating intuitive, scalable applications tha
 <h3 align="center">Aspiring Software Developer | Backend & Fullstack Focused |  ASP.NET Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=Shudufhadzo-18&label=Profile%20Views&color=0e75b6&style=flat" alt="Shudufhadzo-18" />
 </p>
 
 
 
 ---
 
-- 🔭 I’m currently working on: a **Binary Options Breakout Strategy Bot in MQL5**
 - 🌱 I’m learning: **ASP.NET Core MVC**, **React**, and **System Architecture**
 - 👯 I’m open to collaborating on: **web apps**, **bots**, and **automation projects**
-- 💬 Ask me about: **C#**, **JavaScript**, **MQL5**, **networking**, and **Git**
+- 💬 Ask me about: **C#**, **JavaScript**, **CSS & HTML**, **networking**, **Dart**and **Git**
 - 📫 Reach me at: shudufhadzo118@gmail.com
-- ⚡ Fun fact: I love solving real-world problems through automation and trading strategies!
 
 ---
 
