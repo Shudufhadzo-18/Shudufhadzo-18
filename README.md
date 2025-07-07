@@ -41,7 +41,7 @@ I am particularly passionate about creating intuitive, scalable applications tha
 ## 🔗 Let's Connect
 
 <p align="left">
-  <a href="mailto:shudufhadzo118@gmail.com">
+  <a href="mailto:your.shudufhadzo118@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shudufhadzo-tshimuka-287891233/" target="blank">
