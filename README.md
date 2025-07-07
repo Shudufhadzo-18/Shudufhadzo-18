@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Shudufhadzo</h1>
+<h1 align="center">Hi 👋, I'm Shudufhadzo Tshimuka</h1>
+<h1> About me</h1>
+<p>I am a third-year IT student at the Central University of Technology with a strong foundation in software development and a passion for building impactful digital solutions. My technical skill set includes proficiency in C#, JavaScript, Flutter, Dart, HTML, CSS, SQL, and Microsoft technologies.
+
+Through a range of academic and personal projects, I’ve gained practical experience applying these technologies to real-world challenges enhancing both my problem solving abilities and my development workflow. I take pride in being a fast learner and a dedicated team player who continuously seeks to grow and adapt in the ever-evolving tech landscape.
+
+I am particularly passionate about creating intuitive, scalable applications that deliver value. Upon graduation, I aim to contribute meaningfully in the tech industry as a skilled and innovative developer.</p>
 <h3 align="center">Aspiring Software Developer | Backend & Fullstack Focused |  ASP.NET Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ---
 
