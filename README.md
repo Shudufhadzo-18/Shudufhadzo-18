@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shudufhadzo Tshimuka</h1>
-<h2 align="center">🚀 Third-Year IT Student | Aspiring Software Developer | .NET Enthusiast</h2>
+<h2 align="center">🚀 Final-Year IT Student | Aspiring Software Developer | .NET Enthusiast</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shudufhadzo-18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
