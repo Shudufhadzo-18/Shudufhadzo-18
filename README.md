@@ -47,16 +47,6 @@ I’m a third-year IT student at the Central University of Technology with a str
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shudufhadzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shudufhadzo-18&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shudufhadzo-18&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 ## 🔗 Let’s Connect
 
