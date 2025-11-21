@@ -9,7 +9,7 @@
 
 ## 📚 About Me
 
-I’m a third-year IT student at the Central University of Technology with a strong foundation in software development and a deep curiosity for building digital solutions that matter.
+I’m a final year Diploma in Information Technology student at the Central University of Technology with a strong foundation in software development and a deep curiosity for building digital solutions that matter.
 
 💡 I specialize in **C#**, **JavaScript**, and **Flutter**, and I have hands-on experience in **ASP.NET**, **Dart**, **HTML**, **CSS**, **SQL**, and Microsoft’s tech stack.
 
