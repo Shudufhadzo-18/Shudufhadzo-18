@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shudufhadzo Tshimuka</h1>
-<h2 align="center">🚀 Final-Year IT Student | Aspiring Software Developer | .NET Enthusiast</h2>
+<h2 align="center">🚀 Software Development Graduate | Backend & .NET Enthusiast</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shudufhadzo-18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,21 +9,21 @@
 
 ## 📚 About Me
 
-I’m a final year Diploma in Information Technology student at the Central University of Technology with a strong foundation in software development and a deep curiosity for building digital solutions that matter.
+I am a **Software Development graduate** with a passion for building reliable, scalable, and user-focused digital solutions.
 
-💡 I specialize in **C#**, **JavaScript**, and **Flutter**, and I have hands-on experience in **ASP.NET**, **Dart**, **HTML**, **CSS**, **SQL**, and Microsoft’s tech stack.
+💡 My core skills include **C#**, **JavaScript**, **ASP.NET**, **Flutter/Dart**, **SQL**, **HTML/CSS**, and Microsoft technologies — enabling me to build both backend systems and intuitive interfaces.
 
-💼 From academic to personal projects, I enjoy turning ideas into intuitive, scalable applications. I’m a fast learner, creative problem-solver, and an ever-curious tech adventurer who thrives in team-driven environments.
+💼 I enjoy transforming ideas into working applications through hands-on projects, where I continuously refine my problem-solving, clean coding, and debugging skills.
 
-🎯 My mission: to deliver impactful tech and grow into a world-class developer in the industry.
+🎯 My mission is to grow into a strong **Backend / Full-Stack Developer**, contribute to impactful solutions, and keep learning as technology evolves.
 
 ---
 
-## 🔭 I’m Currently...
+## 🔭 Currently Working On...
 
-- 🌱 Learning: **ASP.NET Core MVC**, **React**, and **System Architecture**
-- 🤝 Open to collaborating on: **Web apps**, **bots**, and **automation projects**
-- 💬 Ask me about: **C#**, **JavaScript**, **Dart**, **HTML/CSS**, **Networking**, **Git**
+- 🌱 Expanding my expertise in **ASP.NET Core**, **React**, and **software architecture**
+- 🤝 Open to collaboration on **web applications**, **automation tools**, and **innovative tech solutions**
+- 💬 You can ask me about **C#**, **JavaScript**, **Dart**, **Networking**, **REST APIs**, or **Git workflows**
 - 📫 Reach me at: **shudufhadzo118@gmail.com**
 
 ---
