@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shudufhadzo Tshimuka</h1>
-<h2 align="center">🚀 Software Development Graduate | Backend & .NET Enthusiast</h2>
+<h2 align="center">🚀 Software Development Intern | Backend & .NET Enthusiast</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shudufhadzo-18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,7 +9,7 @@
 
 ## 📚 About Me
 
-I am a **Software Development graduate** with a passion for building reliable, scalable, and user-focused digital solutions.
+I am a **Software Development Intern** with a passion for building reliable, scalable, and user-focused digital solutions.
 
 💡 My core skills include **C#**, **JavaScript**, **ASP.NET**, **Flutter/Dart**, **SQL**, **HTML/CSS**, and Microsoft technologies — enabling me to build both backend systems and intuitive interfaces.
 
